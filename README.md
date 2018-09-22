@@ -25,3 +25,4 @@ You need Python 3 and PyGame. Run main.py from inside the source directory so it
 Written in Python 3 using PyGame.  
 All graphics made by me using [Pyxel Edit](http://pyxeledit.com).  
 The font used is the standard pygame font.
+This project is licensed under the MIT license. See LICENSE.txt for details.
