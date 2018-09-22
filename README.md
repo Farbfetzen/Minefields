@@ -2,7 +2,7 @@
 
 This is a clone of the popular game minesweeper written in Python with Pygame.
 
-![screenshot](/resources/screenshot.png)
+![screenshot](/resources/readme_screenshot.png)
 
 ## How to run
 
