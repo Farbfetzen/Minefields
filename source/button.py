@@ -39,5 +39,3 @@ class Button:
             self.active_surface.draw(surface)
         else:
             self.idle_surface.draw(surface)
-
-

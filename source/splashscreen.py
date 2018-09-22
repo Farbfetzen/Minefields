@@ -35,4 +35,3 @@ class SplashScreen(gamestate.GameState):
         for event in events:
             if event.type in (pg.MOUSEBUTTONDOWN, pg.KEYDOWN):
                 self.done = True
-
