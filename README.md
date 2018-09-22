@@ -17,7 +17,7 @@ You need Python 3 and Pygame. Run main.py from inside the source directory so it
     - The first click places a flag.
     - The second click replaces it with a questionmark.
     - The third click removes the question mark.
-- If the number on an uncovered tile equals the number of flagged neighboring tiles then you can use a double click to reveal all unmarked neighbors.
+- If the number on an uncovered tile equals the number of flagged neighboring tiles then you can double click to reveal all unmarked neighbors.
 - Note that marked tiles (either with a flag or a question mark) cannot be uncovered.
 
 ## Info
