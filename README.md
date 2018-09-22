@@ -1,12 +1,12 @@
 # Minefields
 
-This is a clone of the popular game minesweeper.
+This is a clone of the popular game minesweeper written in Python with Pygame.
 
 ![screenshot](/resources/screenshot.png)
 
 ## How to run
 
-You need Python 3 and PyGame. Run main.py from inside the source directory so it can find the resource files. I recommend installing PyGame in a virtual environment, for example Pipenv.  
+You need Python 3 and Pygame. Run main.py from inside the source directory so it can find the resource files. I recommend installing Pygame in a virtual environment, for example Pipenv.  
 `cd source`  
 `pipenv run python main.py`
 
@@ -22,7 +22,6 @@ You need Python 3 and PyGame. Run main.py from inside the source directory so it
 
 ## Info
 
-Written in Python 3 using PyGame.  
+This project is licensed under the MIT license. See LICENSE.txt for details.  
 All graphics made by me using [Pyxel Edit](http://pyxeledit.com).  
-The font used is the standard pygame font.  
-This project is licensed under the MIT license. See LICENSE.txt for details.
+The font freesansbold.ttf which comes with pygame is licensed under the GNU GPLv3 with a font exception.  
