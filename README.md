@@ -1,6 +1,14 @@
 # Minefields
 
-This is a clone of the popular game minesweeper. Run main.py to play it.
+This is a clone of the popular game minesweeper.
+
+![screenshot](/resources/screenshot.png)
+
+## How to run
+
+You need Python 3 and PyGame. Run main.py from inside the source directory so it can find the resource files. I recommend installing PyGame in a virtual environment, for example Pipenv.  
+`cd source`  
+`pipenv run python main.py`
 
 ## Controls
 
