@@ -1,6 +1,6 @@
 # Minefields
 
-This is a clone of the popular game minesweeper written in Python with Pygame.
+This is a clone of minesweeper written in Python with Pygame.
 
 ![screenshot](/resources/readme_screenshot.png)
 
