@@ -6,9 +6,7 @@ This is a clone of minesweeper written in Python with Pygame.
 
 ## How to run
 
-You need Python 3 and Pygame. Run main.py from inside the source directory so it can find the resource files. I recommend installing Pygame in a virtual environment, for example Pipenv.  
-`cd source`  
-`pipenv run python main.py`
+You need Python 3 and Pygame. Run main.py from inside the source directory so it can find the resource files.
 
 ## Controls
 
