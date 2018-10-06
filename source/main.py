@@ -1,8 +1,8 @@
 """Run this file to start the game.
 
 Copyright 2015 Sebastian Henz
-This project is licensed under the MIT license. See the file 
-LICENSE.txt for details.
+This project is licensed under the MIT license. See file 
+LICENSE for details.
 
 This program was written in Python 3.2.5 using PyGame 1.9.2 
 and should still work with later versions of both.
