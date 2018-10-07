@@ -20,4 +20,4 @@ You need Python 3 and Pygame. Run main.py from inside the source directory so it
 
 ## Info
 
-This project is licensed under the MIT license. See LICENSE.txt for details. All graphics made by me using [Pyxel Edit](http://pyxeledit.com). The font freesansbold.ttf which comes with pygame is licensed under the GNU GPLv3 with a font exception.
+This project is licensed under the MIT license. See file LICENSE for details. All graphics made by me using [Pyxel Edit](http://pyxeledit.com). The font freesansbold.ttf which comes with pygame is licensed under the GNU GPLv3 with a font exception.
