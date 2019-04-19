@@ -1,8 +1,2 @@
-__pycache__/
-venv/
-
 # Pyxel Edit files
 *.pyxel
-
-# KDE directory preferences
-.directory
