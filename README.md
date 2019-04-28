@@ -4,10 +4,6 @@ This is a clone of minesweeper written in Python with Pygame.
 
 ![screenshot](/resources/readme_screenshot.png)
 
-## How to run
-
-You need Python 3 and Pygame. Run main.py from inside the source directory so it can find the resource files.
-
 ## Controls
 
 - Left click to uncover tiles.
